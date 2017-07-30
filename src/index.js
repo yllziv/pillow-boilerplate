@@ -48,8 +48,8 @@ Loader.ready(resource => {
       scaleX: 1,
       scaleY: 1,
       speed: math.getRandom(0,10) / 10,
-      speedX: math.getRandom(10,100) / 100,
-      vspeed: math.getRandom(0,10) / 100,
+      speedX: math.getRandom(10,100) / 10,
+      vspeed: math.getRandom(0,10) / 10,
     });
 
     screen.append(container);
