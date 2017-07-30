@@ -4,13 +4,13 @@
   "description": "Scaffold out an pillow project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pillowjs/pillow-boilerplate.git"
+    "url": "https://github.com/yllziv/pillow-boilerplate.git"
   },
   "keywords": [
     "canvas",
     "pillow"
   ],
-  "homepage": "https://pillowjs.github.com/pillow",
+  "homepage": "https://github.com/yllziv/",
   "precommit": [
     "lint"
   ],
